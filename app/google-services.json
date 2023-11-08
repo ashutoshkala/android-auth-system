@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "101566942205",
+    "project_id": "loginchec",
+    "storage_bucket": "loginchec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101566942205:android:58bf61c17dcc735ba42794",
+        "android_client_info": {
+          "package_name": "com.example.authenticationsystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbTt3tFLr0Ud4BeMAXoo0WcR2VGrnuBHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101566942205:android:b90104aeb3aab3b9a42794",
+        "android_client_info": {
+          "package_name": "com.example.logincheck"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbTt3tFLr0Ud4BeMAXoo0WcR2VGrnuBHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101566942205:android:bcb4e01de1a13922a42794",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbTt3tFLr0Ud4BeMAXoo0WcR2VGrnuBHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
